@@ -1,0 +1,20 @@
+{
+  "name": "api_cervezas",
+  "version": "1.0.0",
+  "description": "Ejercicio para la creacion de apis con node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvCan/Api_cervezas.git"
+  },
+  "author": "Irving Canul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvCan/Api_cervezas/issues"
+  },
+  "homepage": "https://github.com/IrvCan/Api_cervezas#readme"
+}
